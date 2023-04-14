@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\bin\Debug\net7.0\Exercicios 6.exe
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\bin\Debug\net7.0\Exercicios 6.deps.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\bin\Debug\net7.0\Exercicios 6.runtimeconfig.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\bin\Debug\net7.0\Exercicios 6.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\bin\Debug\net7.0\Exercicios 6.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\obj\Debug\net7.0\Exercicios 6.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\obj\Debug\net7.0\Exercicios 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\obj\Debug\net7.0\Exercicios 6.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\obj\Debug\net7.0\Exercicios 6.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\obj\Debug\net7.0\Exercicios 6.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\obj\Debug\net7.0\Exercicios 6.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\obj\Debug\net7.0\refint\Exercicios 6.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\obj\Debug\net7.0\Exercicios 6.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\obj\Debug\net7.0\Exercicios 6.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Vetores\Exercicios 6\obj\Debug\net7.0\ref\Exercicios 6.dll

@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\bin\Debug\net7.0\Exercicios 4.exe
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\bin\Debug\net7.0\Exercicios 4.deps.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\bin\Debug\net7.0\Exercicios 4.runtimeconfig.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\bin\Debug\net7.0\Exercicios 4.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\bin\Debug\net7.0\Exercicios 4.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\obj\Debug\net7.0\Exercicios 4.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\obj\Debug\net7.0\Exercicios 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\obj\Debug\net7.0\Exercicios 4.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\obj\Debug\net7.0\Exercicios 4.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\obj\Debug\net7.0\Exercicios 4.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\obj\Debug\net7.0\Exercicios 4.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\obj\Debug\net7.0\refint\Exercicios 4.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\obj\Debug\net7.0\Exercicios 4.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\obj\Debug\net7.0\Exercicios 4.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Repeticao\Exercicios 4\obj\Debug\net7.0\ref\Exercicios 4.dll

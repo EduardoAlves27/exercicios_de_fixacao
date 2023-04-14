@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\bin\Debug\net7.0\Exercicios 3.exe
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\bin\Debug\net7.0\Exercicios 3.deps.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\bin\Debug\net7.0\Exercicios 3.runtimeconfig.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\bin\Debug\net7.0\Exercicios 3.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\bin\Debug\net7.0\Exercicios 3.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\obj\Debug\net7.0\Exercicios 3.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\obj\Debug\net7.0\Exercicios 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\obj\Debug\net7.0\Exercicios 3.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\obj\Debug\net7.0\Exercicios 3.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\obj\Debug\net7.0\Exercicios 3.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\obj\Debug\net7.0\Exercicios 3.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\obj\Debug\net7.0\refint\Exercicios 3.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\obj\Debug\net7.0\Exercicios 3.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\obj\Debug\net7.0\Exercicios 3.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_12.04\Condicionais\Exercicios 3\obj\Debug\net7.0\ref\Exercicios 3.dll
